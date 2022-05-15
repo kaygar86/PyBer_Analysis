@@ -1,10 +1,14 @@
 # PyBer_Analysis
-## Overview of the analysis: 
+# Overview of the analysis: 
 
+## Looking into fare disparity
 In our initial analysis of PyBer ride share data we found that the average rural ride fare is significantly more than in urban cities, about $5 more per ride. V.Isualize tasked us with a new analysis to summarize the data by city type to hopefully uncover possible reasons for the large disparity between city type fares. 
 
-## Results: 
-Here are the differences we found in ride-sharing data among the different city types. After we merged the city and ride csvs into one dataframe we used the groupby method to summarize the number of rides, drivers, and fares for each city type. 
+# Results:
+
+## Distinct community sizes
+After we merged the city and ride csvs into one dataframe we used the groupby method to summarize the number of rides, drivers, and fares for each city type. The result showed significant differences in total rides, drivers, and fares based on city type. 
+
 Here are screenshots of the findings:
 ## Rides
 <img width="806" alt="Ride_count" src="https://user-images.githubusercontent.com/66224990/168481242-556868f2-59c3-4b14-8463-819ee399e8e3.png">
@@ -26,9 +30,13 @@ We then plotted the total fares by city type into a line graph, below.
 
 The line graph illustrates the total fares by city type. Given the great difference in the number of drivers between urban, suburban, and rural communities it is not surprising that they would have the largest to smallest total fares in that order. Interestingly we saw they all follow a simialar trend throughout the 4 months we analyzed with various peaks and declines. They all also showed a steep decline in May.
 
-## Summary: 
+# Summary: 
+
+## Why the large disparity in rural and urban fares?
 
 If drivers are able to set their own rates for each ride then it would make sense that urban areas would be able to keep their fare per ride lower than in rural areas. A larger population of drivers would create more competition and demand to keep prices low. They also would have a higher volume of rideshare clients than rural areas so they can charge less per ride. Another reason for urban drivers charging less per ride is that urban areas typically have more job opportunities than rural ones so the urban PyBer drivers are more likely to offer rides as a secondary job. 
+
+## Our Recommendations
 
 We can recommend additional analysis to help the CEO address the disparities among the city type ride share fates. If we could analyze the following data points it may shed more light on why there is a disparity between the fares. 
 
