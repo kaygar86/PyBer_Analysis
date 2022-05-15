@@ -22,7 +22,7 @@ Here are screenshots of the findings:
 ## Average per ride and driver
 <img width="783" alt="Avg_fares" src="https://user-images.githubusercontent.com/66224990/168482072-8153c14f-4b82-445c-9648-54230fa9b4b8.png">
 
-While there are around 30 times more urban drivers in the PyBer pool than rural areas, the difference in total fares was only about 9 times more. This results in the average fare for each ride and driver is significantly less in urban areas than in rural ones.
+While there are around 30 times more urban drivers in the PyBer pool than rural areas, the difference in total fares was only about 9 times more. This results in the average fare for each ride and driver being significantly less in urban areas than in rural ones.
 
 We then plotted the total fares by city type into a line graph, below. 
 
