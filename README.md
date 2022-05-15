@@ -2,7 +2,7 @@
 # Overview of the analysis: 
 
 ## Looking into fare disparity
-In our initial analysis of PyBer ride share data we found that the average rural ride fare is significantly more than in urban cities, about $5 more per ride. V.Isualize tasked us with a new analysis to summarize the data by city type to hopefully uncover possible reasons for the large disparity between city type fares. 
+In our initial analysis of PyBer rideshare data we found that the average rural ride fare is significantly more than in urban cities, about $5 more per ride. V. Isualize tasked us with a new analysis to summarize the data by city type to hopefully uncover possible reasons for the large disparity between city type fares and make a recommendation to the CEO to address it. 
 
 # Results:
 
